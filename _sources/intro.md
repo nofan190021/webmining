@@ -1,11 +1,26 @@
-# Welcome to your Jupyter Book
+# Tentang Buku
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
 
-Check out the content pages bundled with this sample book to see more.
+{image} ../webmining/_static/foto.jpg
+:alt: fishy
+:class: bg-primary mb-1
+:width: 300px
+:align: center
 
-```{tableofcontents}
+{admonition} Biodata Penulis
+{list-table}
+* - Nama
+  - Nofan Diaz Praditya
+* - NIM
+  - 190411100021
+* - Kelas
+  - Pencarian & Penambangan Web (A)
+* - Dosen Pengampu
+  - MULA'AB, S.Si., M.Kom
+* - Prodi
+  - Teknik Informatika - Universitas Trunojoyo Madura
 ```
+
+
+
+```{admonition} Informasi Mengenai Buku
