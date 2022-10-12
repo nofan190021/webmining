@@ -1,7 +1,7 @@
 # Tentang Buku
 
 
-{image} ../webmining/_static/azriel.jpeg
+{image} ../webmining/_static/foto.jpg
 :alt: fishy
 :class: bg-primary mb-1
 :width: 300px
@@ -10,9 +10,9 @@
 {admonition} Biodata Penulis
 {list-table}
 * - Nama
-  - Azriel Akbar Hasananda Putra
+  - Nofan Diaz Praditya
 * - NIM
-  - 190411100192
+  - 190411100021
 * - Kelas
   - Pencarian & Penambangan Web (A)
 * - Dosen Pengampu
