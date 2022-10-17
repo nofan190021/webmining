@@ -1,7 +1,7 @@
 # Tentang Buku
 
 
-```{image} ../webmining/tugas/foto.jpg
+```{image} ../webmining/_static/foto.jpg
 :alt: fishy
 :class: bg-primary mb-1
 :width: 300px
